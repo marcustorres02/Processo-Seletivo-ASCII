@@ -1,0 +1,33 @@
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+.normal{
+	color: black;
+	text-align: justify;
+}
+.filter-green{
+	filter: invert(18%) sepia(96%) saturate(7174%) hue-rotate(1deg) brightness(102%) contrast(117%);
+}
+.colorido{
+	background: -webkit-gradient(linear, left top, right top, from(#007788), to(#07D5D5));
+	background: -ms-linear-gradient(left, #007788, #07D5D5);
+	background: -moz-linear-gradient(left, #CCCCCC, #000000);
+}
+.meio{
+	background-color: #e9ece5;
+}
+.texto{
+	color: black;
+}
+.titulo{
+	color: black;
+}
